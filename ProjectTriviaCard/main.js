@@ -22,5 +22,3 @@ $(document).ready(() =>{
       $('.wrong-answer-three').fadeOut('slow');
     })
   });
-  
-
